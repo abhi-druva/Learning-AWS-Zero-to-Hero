@@ -166,4 +166,4 @@ We will explore AWS Elastic Load Balancer, a service for distributing incoming a
 
 This day focuses on learning how to migrate applications to AWS cloud. What are the most popular strategies and tools used to achieve the cloud migration.
 
-## Day 30: AWS Project with RDS
+## Day 27: AWS Project with RDS
