@@ -1,4 +1,4 @@
-# Learning-AWS-Zero-to-Hero
+# Learning-AWS
 Documentation of learning AWS from scratch.
 
 ## Day 1: Introduction to AWS
